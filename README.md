@@ -108,3 +108,4 @@ Goodbye!
 - Search and filter ideas  
 - Prioritize or rate ideas  
 - Export ideas to other formats
+- Sort ideas in folders and/or sections
