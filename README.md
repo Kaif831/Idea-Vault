@@ -4,6 +4,7 @@
 
 Idea Vault is a simple text-based Python program that helps you store, view, and manage your ideas in one place. Perfect for capturing thoughts, project ideas, creative sparks, or anything else you want to remember.
 
+
 ## Features
 
 - Add new ideas easily  
@@ -12,6 +13,7 @@ Idea Vault is a simple text-based Python program that helps you store, view, and
 - Simple menu-driven interface in the terminal  
 - No files needed - ideas are stored temporarily while the program runs
 - A clear screen function is used to clear the terminal to stop it from getting messy
+
 
 ## How to Run
 
@@ -28,11 +30,24 @@ Idea Vault is a simple text-based Python program that helps you store, view, and
 6. Use the menu to add, view, or delete ideas.  
 7. Ideas are stored temporarily (in memory) and will be lost once the program is closed.
 
+
+## How to Credit Me
+
+If you use or share this project, please keep the original license and copyright notice intact.
+
+- Mention **Kaif** as the original author wherever you share or publish the code.
+- If you use parts of the code in your own projects, a shout-out or link back to this repository is appreciated but not required.
+- This helps others know who created the project and supports open collaboration!
+
+Thank you for respecting the credit and license terms!
+
+
 ## How it Works
 
 - The program uses a list to keep track of all ideas during the session.  
 - Ideas are lost when the program closes (no file saving yet).  
 - The menu runs in a loop allowing continuous use until you exit.
+
 
 ## Example Flow
 
@@ -101,6 +116,7 @@ We hope you enjoyed using Idea Vault and found it useful.
 Goodbye!
 ```
 
+
 ## Future Improvements
 
 - Save/load ideas to a file so they persist between sessions  
@@ -108,4 +124,3 @@ Goodbye!
 - Search and filter ideas  
 - Prioritize or rate ideas  
 - Export ideas to other formats
-- Sort ideas in folders and/or sections
